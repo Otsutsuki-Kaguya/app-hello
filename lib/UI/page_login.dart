@@ -47,7 +47,7 @@ class PageLogin extends StatelessWidget {
                       ),
                           const SizedBox(
                             height: 10),
-                    const Text("Instagram", 
+                    const Text("hello", 
                        style: TextStyle(fontSize:  50 ,fontWeight: FontWeight.bold, color: Color.fromARGB(255, 110, 224, 114)),),
                     const Text("Đăng nhập tài khoản", 
                       style: TextStyle(fontSize:  30 ,fontWeight: FontWeight.bold, color: Color.fromARGB(255, 110, 224, 114)),),

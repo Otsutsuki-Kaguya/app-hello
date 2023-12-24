@@ -50,7 +50,7 @@ class PageForgot extends StatelessWidget {
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    const Image(image: AssetImage('assets/images/wechat.gif'),width: 200,),
+                    const Image(image: AssetImage('assets/images/forgot.png'),width: 200,),
                     const SizedBox(width: 20,),
                     const Text("Hãy điền các thông tin cần thiết!"),
                     const SizedBox(height: 10,),
